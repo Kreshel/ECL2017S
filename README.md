@@ -1,5 +1,6 @@
 ## ECL2017S - Engineering Computation Lab Project (Spring 2017)
 
+
 **Name:** Kreshel Nguyen
 
 **UT EID:** kn7854
@@ -16,6 +17,7 @@
 
 Course Webpage: http://www.shahmoradi.org/ECL2017S/
 
+
 ### **Description of the project’s content**
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for [ECL2017S class](http://www.shahmoradi.org/ECL2017S/). The structure of the project is the following:
@@ -31,6 +33,7 @@ This directory contains all my quiz submissions, each of which is a folder prope
 **exam:** (the exam hyperlink should take the reader to the exams folder)
 
 This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.
+
 
 For questions and troubleshooting, please contact:
 
