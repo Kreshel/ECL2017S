@@ -41,3 +41,6 @@ For questions and troubleshooting, please contact:
 Kreshel Nguyen
 
 kreshel@utexas.edu
+
+> ### Never Settle
+> ### -[OnePlus] (https://oneplus.net)
