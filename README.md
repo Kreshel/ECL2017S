@@ -1,4 +1,4 @@
-Name: Kreshel Nguyen
+Name: Kreshel Nguyen\n
 UT EID: kn7854
 Email: kreshel@utexas.edu
 Department: Department of Aerospace Engineering and Engineering Mechanics
