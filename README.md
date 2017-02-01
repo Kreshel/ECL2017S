@@ -16,9 +16,11 @@
 
 **Course Webpage:** http://www.shahmoradi.org/ECL2017S/
 
-**Photo:** ![alt text](http://i.imgur.com/RE6D5Es.png "kresh")
+**Photo:** 
 
-### **Description of the project’s content**
+![alt text](http://i.imgur.com/RE6D5Es.png "kresh")
+
+### Description of the project’s content
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for [ECL2017S class](http://www.shahmoradi.org/ECL2017S/). The structure of the project is the following:
 
