@@ -16,7 +16,7 @@
 
 **Course Webpage:** http://www.shahmoradi.org/ECL2017S/
 
-**Photo:** ![alt text](http://imgur.com/a/FwMiB "kresh")
+**Photo:** ![alt text](http://i.imgur.com/RE6D5Es.png "kresh")
 
 ### **Description of the project’s content**
 
