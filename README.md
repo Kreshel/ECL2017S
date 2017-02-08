@@ -25,7 +25,7 @@
 
 This repository contains my homework, quizzes, and virtually every effort that I have made for [ECL2017S class](http://www.shahmoradi.org/ECL2017S/). The structure of the project is the following:
 
-[**homework:**](ECL2017S/homework/)
+[**homework:**](#homework)
 
 This directory contains all my homework submissions, each of which is a folder properly named with homework number, containing the homework submission.
 
