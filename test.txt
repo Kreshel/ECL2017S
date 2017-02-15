@@ -1,1 +1,1 @@
-This is some example text for branch1
+. Then save and quit *vim.
