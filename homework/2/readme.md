@@ -154,3 +154,6 @@ Deleted branch test2 (was a7e5735).
 
 $ git branch
 * master
+
+TA Comments
+wrong reasoning for no test.txt in test2 + not pushed finally(part T) + merge error not explored properly
