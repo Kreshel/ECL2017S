@@ -1,4 +1,4 @@
-# syntax error: was using %% instead of %d
+# syntax error: had an l at end of (_life_expectancy) statement
 _life_expectancy = 120; print('\n' + "The life expectancy for the millennials is projected to be %d years! (But don't believe it...)" % (_life_expectancy) + '\n');
 
 print('''
