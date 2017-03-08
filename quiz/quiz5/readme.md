@@ -1,4 +1,4 @@
-1. mylist.join()
+1. " ".join(myList)
 
 2. tuples are immutable; they cannot be redefined
 
