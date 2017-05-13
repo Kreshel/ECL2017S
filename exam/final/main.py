@@ -40,14 +40,15 @@ for i in range(len(T)):
 
 ##### Display Line Chart #####
 Tvals = []
+plt.clf()
 
 for i in range(len(T)):
     Tvals.append(np.sum(cells[:,:,:,i]))
     
 plt.plot(T,Tvals,'bo-')
-plt.title('Rat W09. No radiation Treatment.',fontweight='bold')
-plt.ylabel('Tumor Cell Count')
-plt.xlabel('Time [days]')
+plt.title('Rat W09. No radiation Treatment.',fontweight='bold',fontsize='20')
+plt.ylabel('Tumor Cell Count',fontsize='20')
+plt.xlabel('Time [days]',fontsize='20')
 plt.minorticks_on()
 plt.savefig('./results/LineGraph.png')
 #plt.show()
