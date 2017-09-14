@@ -45,4 +45,4 @@ kreshel@utexas.edu
  
  
 > ### Never Settle
-> ### -[OnePlus](https://oneplus.net)
+-[OnePlus](https://oneplus.net)
