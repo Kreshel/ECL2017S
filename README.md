@@ -11,7 +11,7 @@
 
 **University:** [The University of Texas at Austin](http://www.utexas.edu)
 
-**Level:** Undergraduate - Sophomore(2nd year)
+**Level:** Undergraduate - Junior (3rd year)
 
 **ECL Class Position:** Student
 
@@ -45,4 +45,4 @@ kreshel@utexas.edu
  
  
 > ### Never Settle
-> ### -[OnePlus] (https://oneplus.net)
+> ### -[OnePlus](https://oneplus.net)
